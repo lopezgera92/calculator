@@ -1,4 +1,8 @@
 package data_structures;
+/*  UnorderedListADT.java
+    Interface for CS310 Summer 2017
+    Code by Alan Riggins
+*/  
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
