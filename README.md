@@ -3,8 +3,7 @@ calculator is a desktop application built using the Java programming language. I
 
 A user can select various operands and operators and calculator uses the Infix to Postfix Conversion Algorithm to perform the necessary artithmetic. The input is accepted as a String object and that object is tokenized using the StringTokenizer class. Depending on what the token is, the token is either added to a stack or a queue. As more tokens are accepted the previously added tokens are removed from the stack and queue depending on precedence rules. This results in a new string that is in postfix notation making it easier to perform the proper arithmetic. The GUI was made using JFrame and the datastructures were implemented from scratch. 
 
-![screen shot 2019-02-01 at 6 24 18 pm](https://user-images.githubusercontent.com/27708647/52158598-a9d31b80-264e-11e9-9c03-5d543d924d07.png)
-
+![screen shot 2019-02-12 at 3 07 09 am](https://user-images.githubusercontent.com/27708647/52631465-b851dc00-2e73-11e9-991f-2fa5e600d1e4.png)
 
 ### Prerequisites
 * [JVM](https://www.java.com/en/download/) - The runtime environment used
